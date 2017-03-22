@@ -1,7 +1,0 @@
----
----
-{% assign videos = site.posts | where: "type", "Document" | sort: "title" %}
-
-<h2> Danh Sach <span class="count">({{ videos | size }})</span></h2>
-
-{% include listings.html listings=videos %}

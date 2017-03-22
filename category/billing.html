@@ -2,6 +2,6 @@
 ---
 {% assign videos = site.posts | where: "categories", "Billing" | sort: "title" %}
 
-<h2> Danh Sach <span class="count">({{ videos | size }})</span></h2>
+<h2> Billing <span class="count">({{ videos | size }})</span></h2>
 
 {% include listings.html listings=videos %}
