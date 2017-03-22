@@ -1,6 +1,6 @@
 ---
 date: 2017-01-16
-title: Change password
+title: Hướng dẫn thay đổi mật khẩu của người dùng
 categories:
   - account-settings
 description: Keep your account secure

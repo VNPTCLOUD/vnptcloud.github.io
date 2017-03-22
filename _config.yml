@@ -3,7 +3,7 @@
 
 title: VNPT
 url: "http://faq.cloudvnpt.com/"
-baseurl:
+baseurl: "http://faq.cloudvnpt.com/"
 google_analytics_key:
 disqus_shortname:
 
@@ -15,9 +15,9 @@ author:
   email: cloud@vnpt.vn
   twitter: # twitter username without the @ symbol
 social:
-  name: Base Template
+  name: VNPT MyCLOUDVNN
   links:
-    - https://github.com/CloudCannon/base-jekyll-template
+    - "http://faq.cloudvnpt.com/"
 
 # -----
 # Build
