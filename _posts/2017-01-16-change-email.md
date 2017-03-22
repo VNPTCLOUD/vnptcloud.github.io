@@ -2,7 +2,7 @@
 date: 2017-01-16
 title: Hương dẫn thay đổi email
 categories:
-  - account-settings
+  - tài khoản
 description: "Update your email address"
 type: Document
 ---

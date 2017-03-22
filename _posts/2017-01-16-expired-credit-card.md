@@ -2,7 +2,7 @@
 date: 2017-01-16
 title: Hướng dẫn giai hạn thẻ
 categories:
-  - billing
+  - hóa đơn
 description: What to do when your credit card expires
 type: Document
 ---
