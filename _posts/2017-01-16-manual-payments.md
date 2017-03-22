@@ -2,7 +2,7 @@
 date: 2017-01-16
 title: Hướng dẫn thanh toán
 categories:
-  - Hóa đơn
+  - Thanh toán
 description: How to pay manually
 type: Document
 ---

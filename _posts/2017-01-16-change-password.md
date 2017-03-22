@@ -2,7 +2,7 @@
 date: 2017-01-16
 title: Hướng dẫn thay đổi mật khẩu của người dùng
 categories:
-  - account-settings
+  - Tài khoản
 description: Keep your account secure
 type: Document
 ---
