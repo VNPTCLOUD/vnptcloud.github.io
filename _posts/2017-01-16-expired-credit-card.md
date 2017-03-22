@@ -1,6 +1,6 @@
 ---
 date: 2017-01-16
-title: Expired credit card
+title: Hướng dẫn giai hạn thẻ
 categories:
   - billing
 description: What to do when your credit card expires
