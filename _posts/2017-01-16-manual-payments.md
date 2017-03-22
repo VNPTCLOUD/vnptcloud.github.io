@@ -1,6 +1,6 @@
 ---
 date: 2017-01-16
-title: Manual payments
+title: Hướng dẫn thanh toán
 categories:
   - billing
 description: How to pay manually
