@@ -3,7 +3,7 @@
 
 title: VNPT
 url: "http://faq.cloudvnpt.com"
-baseurl: "http://faq.cloudvnpt.com/"
+baseurl:
 google_analytics_key:
 disqus_shortname:
 
