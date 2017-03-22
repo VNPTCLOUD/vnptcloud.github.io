@@ -2,7 +2,7 @@
 date: 2017-01-16
 title: Hướng dẫn nạp thẻ ngân hàng
 categories:
-  - Thanh toán
+  - Billing
 description: "Add a credit card to your account"
 type: Document
 ---

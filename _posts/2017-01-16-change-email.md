@@ -2,7 +2,7 @@
 date: 2017-01-16
 title: Hướng dẫn thay đổi email
 categories:
-  - tài khoản
+  - Account
 description: "Update your email address"
 type: Document
 ---
