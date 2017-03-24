@@ -2,7 +2,9 @@
 # Site
 
 title: VNPT
-url: "http://faq.cloudvnpt.com"
+url: "https://faq.cloudvnpt.com"
+enforce_ssl: faq.cloudvnpt.com
+
 baseurl:
 google_analytics_key:
 disqus_shortname:
@@ -17,7 +19,7 @@ author:
 social:
   name: VNPT MyCLOUDVNN
   links:
-    - "http://faq.cloudvnpt.com/"
+    - "https://faq.cloudvnpt.com/"
 
 # -----
 # Build
